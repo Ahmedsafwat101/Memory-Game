@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Game", "Game\Game.csproj", "{41DB9D2F-79BB-4150-A000-443D9D0EE2C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AA8AA68-AA6A-48EA-A7A3-D3414B1ECF53}"
+	ProjectSection(SolutionItems) = preProject
+		Game\New folder (3)\265-2650069_28-collection-of-lego-captain-america-clipart-marvel-superheroes-lego-captain-america.png = Game\New folder (3)\265-2650069_28-collection-of-lego-captain-america-clipart-marvel-superheroes-lego-captain-america.png
+		Game\New folder (3)\31-314683_lego-superheroes-hulk.png = Game\New folder (3)\31-314683_lego-superheroes-hulk.png
+		Game\New folder (3)\61-uTmSW6dL._SL1181_.jpg = Game\New folder (3)\61-uTmSW6dL._SL1181_.jpg
+		Game\New folder (3)\76025_Sinestro_1488x1984_mugshot_360w_2x.png = Game\New folder (3)\76025_Sinestro_1488x1984_mugshot_360w_2x.png
+		Game\New folder (3)\76063_1to1_MF_THE_FLASH_336.png = Game\New folder (3)\76063_1to1_MF_THE_FLASH_336.png
+		Game\New folder (3)\fa2b30f9-2489-4102-bb1d-606dc6a24700.PNG = Game\New folder (3)\fa2b30f9-2489-4102-bb1d-606dc6a24700.PNG
+		Game\New folder (3)\lego-batman-3-beyond-gotham-lego-batman-the-videogame-lego-batman-2-dc-super-heroes-lego-batman.jpg = Game\New folder (3)\lego-batman-3-beyond-gotham-lego-batman-the-videogame-lego-batman-2-dc-super-heroes-lego-batman.jpg
+		Game\New folder (3)\lego-marvel-super-heroes-lego-marvels-avengers-wolverine-captain-america-thor-wolverine-cliparts.jpg = Game\New folder (3)\lego-marvel-super-heroes-lego-marvels-avengers-wolverine-captain-america-thor-wolverine-cliparts.jpg
+		Game\New folder (3)\super-heroes-lego-png-7.png = Game\New folder (3)\super-heroes-lego-png-7.png
+		Game\New folder (3)\Thor.jpg = Game\New folder (3)\Thor.jpg
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41DB9D2F-79BB-4150-A000-443D9D0EE2C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41DB9D2F-79BB-4150-A000-443D9D0EE2C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41DB9D2F-79BB-4150-A000-443D9D0EE2C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41DB9D2F-79BB-4150-A000-443D9D0EE2C4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBAED709-D78C-4CBD-B54F-E8227A252795}
+	EndGlobalSection
+EndGlobal
